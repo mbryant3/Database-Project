@@ -1,0 +1,50 @@
+Flight_Number	Airline_Name	Seats_Available	Destination	Arrival_Time	Departure_Time	Status	Company_ID	Flight_Date
+234	Delta Air Lines	79	New York	7:00 AM	8:22 AM	Delayed	W3E8D	3/26/2018
+115	United	40	San Diego	7:05 AM	7:18 AM	On Schedule	G8H0M	3/31/2018
+175	American Airlines	121	Los Angeles	8:41 AM	8:23 AM	On Schedule	U7U8N	8/26/2018
+137	South West	5	Washington D.C	8:34 AM	8:31 AM	Delayed	M2N4E	2/14/2018
+208	JetBlue	133	Omaha	7:37 AM	8:16 AM	On Schedule	M5E8J	4/25/2018
+200	Air Canada	7	Quebec	7:09 AM	7:31 AM	Delayed	I2N2B	7/30/2018
+177	British Airways	73	Manchester	7:47 AM	8:14 AM	On Schedule	U0P2Q	2/11/2018
+92	SoulPlane	66	Atlanta	7:38 AM	8:30 AM	On Schedule	P5F0D	8/13/2018
+51	Qatar Airways	108	Dubai	8:05 AM	8:38 AM	On Schedule	A8R7L	1/7/2018
+190	Virgin Atlantic	103	Tulsa	7:14 AM	7:51 AM	On Schedule	C2U9B	5/30/2018
+80	JetBlue	127	Norfolk	7:50 AM	7:13 AM	On Schedule	N2G8M	2/19/2018
+26	SoulPlane	94	Compton	7:54 AM	8:15 AM	Delayed	I7J5C	9/1/2018
+82	SoulPlane	53	Baltimore	7:45 AM	8:07 AM	Delayed	B3I8C	3/21/2018
+276	British Airways	31	London	7:31 AM	7:06 AM	On Schedule	K0P2L	1/30/2018
+211	Virgin Atlantic	127	Bermuda	8:23 AM	8:39 AM	On Schedule	H6X6N	7/21/2018
+258	Virgin Atlantic	115	Virgin Islands	8:16 AM	7:56 AM	On Schedule	B9S0G	1/23/2018
+133	JetBlue	61	Tulsa	7:39 AM	7:56 AM	On Schedule	I1L0H	5/5/2018
+62	JetBlue	61	Dallas	8:44 AM	7:47 AM	On Schedule	S4M3I	2/15/2018
+74	British Airways	73	Dublin	8:44 AM	7:55 AM	On Schedule	Z8S3W	8/9/2018
+112	Air Canada	2	Toronto	8:04 AM	7:14 AM	On Schedule	H3I3E	8/7/2018
+201	SoulPlane	31	New Orleans	7:06 AM	8:34 AM	Delayed	C1I7I	8/20/2018
+57	SoulPlane	60	Sydney	7:00 AM	8:14 AM	Delayed	L2S9J	8/5/2018
+144	South West	9	Miami	7:38 AM	7:15 AM	On Schedule	Z3M2V	3/28/2018
+225	Virgin Atlantic	80	Buffalo	7:06 AM	8:13 AM	Delayed	W9X5V	6/9/2018
+170	Delta Air Lines	46	Portland	8:40 AM	7:14 AM	Delayed	Q7H8S	1/24/2018
+188	British Airways	72	Athens	7:38 AM	7:45 AM	On Schedule	W4A6P	2/25/2018
+146	United	71	Shanghai	8:09 AM	8:32 AM	On Schedule	A8G1K	5/15/2018
+63	Delta Air Lines	108	San Fransico	7:49 AM	8:34 AM	Delayed	F1U9I	2/25/2018
+192	SoulPlane	135	Nairobi	7:33 AM	8:29 AM	Delayed	V2M6U	4/7/2018
+121	Qatar Airways	25	Beijing	7:30 AM	7:32 AM	On Schedule	Q3Q7Q	3/1/2018
+181	Delta Air Lines	94	Casa Blanca	7:07 AM	8:15 AM	On Schedule	I5A2Y	2/6/2018
+133	JetBlue	51	Orlando	7:36 AM	7:48 AM	On Schedule	M6S7Y	4/17/2018
+220	Qatar Airways	125	Tehran	7:40 AM	7:07 AM	Delayed	L0V0X	9/1/2018
+210	JetBlue	41	Columbus	8:14 AM	7:10 AM	Delayed	L2U8C	5/10/2018
+25	British Airways	35	Barcelona	8:07 AM	7:14 AM	On Schedule	X6H5D	5/24/2018
+182	American Airlines	130	Honolulu	7:42 AM	7:26 AM	On Schedule	B5Y7G	1/1/2018
+158	SoulPlane	70	Jersey City	8:18 AM	7:41 AM	Delayed	R5X6V	1/4/2018
+15	British Airways	95	Saint Petersburg	8:36 AM	7:18 AM	On Schedule	B2G8D	7/14/2018
+62	SoulPlane	101	Seattle	7:32 AM	7:11 AM	On Schedule	R1X8G	6/7/2018
+293	United	30	Raleigh	8:31 AM	7:25 AM	Delayed	J4H6H	3/28/2018
+44	SoulPlane	123	El Paso	8:22 AM	7:59 AM	On Schedule	P5C7Z	3/18/2018
+259	SoulPlane	54	Fresno	8:32 AM	7:37 AM	Delayed	U3Y0U	3/12/2018
+154	Delta Air Lines	60	Moscow	7:41 AM	7:53 AM	On Schedule	F8T5Z	6/21/2018
+213	Qatar Airways	3	Alexandria	7:46 AM	7:22 AM	On Schedule	L6Q0Y	4/3/2018
+41	American Airlines	119	Anchorage	8:10 AM	7:13 AM	On Schedule	A3S7I	1/23/2018
+117	Air Canada	94	Montreal	7:03 AM	7:37 AM	Delayed	I1G7O	6/8/2018
+171	United	74	Phoenix	8:40 AM	7:12 AM	Delayed	H2I8G	2/17/2018
+228	Qatar Airways	77	Baghdad	8:40 AM	8:04 AM	On Schedule	P5Q7I	2/16/2018
+268	Delta Air Lines	71	Modesto	7:10 AM	7:55 AM	On Schedule	L3E8N	1/2/2018
